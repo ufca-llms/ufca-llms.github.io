@@ -1,0 +1,18 @@
+/*
+   Team page
+   ========================================================================== */
+
+.team-grid {
+  .archive__item {
+    text-align: center;
+  }
+
+  .archive__item-teaser img {
+    width: 140px;
+    height: 140px;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 1px solid $border-color;
+    padding: 4px;
+  }
+}
