@@ -39,6 +39,23 @@ team_members:
 
 Dica: mantenha os nomes dos arquivos de imagem em minúsculas e sem espaços (use hífens).
 
+## Enviar mudanças via Pull Request (PR)
+
+1. Crie uma branch local:
+   ```bash
+   git checkout -b feat/add-member-nome
+   ```
+1. Faça commit das alterações:
+   ```bash
+   git add images/ _pages/team.md
+   git commit -m "Add team member: Nome Sobrenome"
+   ```
+1. Envie a branch para o GitHub:
+   ```bash
+   git push origin feat/add-member-nome
+   ```
+1. Abra um Pull Request no GitHub e solicite revisão.
+
 ## To run locally (not on GitHub Pages, to serve on your own computer)
 
 1. Clone the repository and made updates as detailed above
