@@ -16,6 +16,29 @@ I think I've got things running smoothly and fixed some major bugs, but feel fre
 
 See more info at https://academicpages.github.io/
 
+## Como adicionar membros na página Team (UFCA LLMs)
+
+1. Adicione a foto do membro em `images/` (ex.: `images/ana-silva.jpg`).
+1. Abra `_pages/team.md` e, no bloco `team_members`, adicione um novo item com `title`, `image_path` e `excerpt`.
+1. Use o modelo abaixo como referência:
+
+```yaml
+team_members:
+  - title: "Prof. Jayr A. Pereira"
+    image_path: jayr.jpeg
+    excerpt: |
+      Coordinator, UFCA LLMs Research Group  
+      Adjunct Professor, Universidade Federal do Cariri (UFCA)  
+      [LinkedIn](https://www.linkedin.com/in/jayr-alencar-22048182/) · [Website](https://jayralencar.github.io/)
+  - title: "Member name"
+    image_path: member-photo.jpg
+    excerpt: |
+      Role or affiliation  
+      [LinkedIn](https://www.linkedin.com/in/username/) · [Website](https://example.com/)
+```
+
+Dica: mantenha os nomes dos arquivos de imagem em minúsculas e sem espaços (use hífens).
+
 ## To run locally (not on GitHub Pages, to serve on your own computer)
 
 1. Clone the repository and made updates as detailed above
