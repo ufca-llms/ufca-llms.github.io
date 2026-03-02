@@ -16,7 +16,7 @@ team_members:
     excerpt: |
       *Aluno*, UFCA LLMs Research Group  
       Aluno de Ciências da Computação na Universidade Federal do Cariri (UFCA)  
-      [Linkedin](Linkedin: www.linkedin.com/in/erick-brito-655a05349)
+      [Linkedin](https://www.linkedin.com/in/erick-brito-655a05349)
 ---
 
 {% include base_path %}
