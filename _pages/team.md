@@ -10,6 +10,13 @@ team_members:
       *Coordinator*, UFCA LLMs Research Group  
       Adjunct Professor, Universidade Federal do Cariri (UFCA)  
       [LinkedIn](https://www.linkedin.com/in/jayr-alencar-22048182/) · [Website](https://jayralencar.github.io/)
+  
+  - title: "Erick de Brito"
+    image_path: erick.png
+    excerpt: |
+      *Aluno*, UFCA LLMs Research Group  
+      Aluno de Ciências da Computação na Universidade Federal do Cariri (UFCA)  
+      [Linkedin](https://www.linkedin.com/in/erick-brito-655a05349)
 ---
 
 {% include base_path %}
