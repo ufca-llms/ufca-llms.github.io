@@ -19,7 +19,7 @@ team_members:
       [Linkedin](https://www.linkedin.com/in/erick-brito-655a05349)
 
   - title: "Matheus Rennan"
-    image_path: matheus.jpeg
+    image_path: matheus.png
     excerpt: |
       *Aluno*, UFCA LLMs Research Group  
       Aluno de Ciências da Computação na Universidade Federal do Cariri (UFCA)  
