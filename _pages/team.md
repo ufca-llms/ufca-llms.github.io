@@ -24,6 +24,13 @@ team_members:
       *Aluno*, UFCA LLMs Research Group  
       Aluno de Ciências da Computação na Universidade Federal do Cariri (UFCA)  
       [Linkedin](https://www.linkedin.com/in/matheus-rennan-735370267/)
+
+  - title: "Diogo Gomes"
+    image_path: diogo.jpeg
+    excerpt: |
+      *Aluno*, UFCA LLMs Research Group  
+      Aluno de Engenharia de Software na Universidade Federal do Cariri (UFCA)  
+      [Linkedin](www.linkedin.com/in/diogo-gomes-88552723b)
 ---
 
 {% include base_path %}
