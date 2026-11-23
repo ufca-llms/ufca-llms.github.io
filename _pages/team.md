@@ -31,6 +31,13 @@ team_members:
       *Aluno*, UFCA LLMs Research Group  
       Aluno de Engenharia de Software na Universidade Federal do Cariri (UFCA)  
       [Linkedin](www.linkedin.com/in/diogo-gomes-88552723b)
+
+  - title: "Rodrigo Pinheiro"
+    image_path: rodrigo.jpg
+    excerpt: |
+      *Aluno*, UFCA LLMs Research Group
+      Aluno de Ciência da Computação na Universidade Federal do Cariri (UFCA)
+      [Linkedin](https://www.linkedin.com/in/rodrigo-pinheiro-alcantara-4112b8421/)
 ---
 
 {% include base_path %}
